@@ -1,0 +1,16 @@
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\bin\Debug\calculadoraIMSS2.exe.config
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\bin\Debug\calculadoraIMSS2.exe
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\bin\Debug\calculadoraIMSS2.pdb
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.csproj.SuggestedBindingRedirects.cache
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.csproj.CoreCompileInputs.cache
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.exe
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.pdb
+E:\TICH\SEMANA 2\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.csproj.AssemblyReference.cache
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\bin\Debug\calculadoraIMSS2.exe.config
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\bin\Debug\calculadoraIMSS2.exe
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\bin\Debug\calculadoraIMSS2.pdb
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.csproj.AssemblyReference.cache
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.csproj.SuggestedBindingRedirects.cache
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.csproj.CoreCompileInputs.cache
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.exe
+D:\TICH\SEMANA 2 C#\30-05-2022\calculadoraIMSS2\calculadoraIMSS2\obj\Debug\calculadoraIMSS2.pdb
